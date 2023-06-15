@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Vision and some ML application in Biomedical Science  
 - 🌱 I’m currently learning Biomedical Science in SJTU
 - 💞️ I’m looking to collaborate on mice tracking and fine behavioral analysis
-- 📫 How to reach me : ave.emotion@gmail
+- 📫 How to reach me : ave.emotion.dai@gmail.com
 
 <!---
 Daiddx/Daiddx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
