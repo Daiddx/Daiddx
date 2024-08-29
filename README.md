@@ -1,8 +1,14 @@
 - 👋 Hi, I’m @Daiddx
-- 👀 I’m interested in Computer Vision and some ML applications in Biomedical Science  & Another project is about EEG processing
-- 🌱 I’m currently learning Biomedical Science at SJTU (Lab in Tianle Xu and Binlei Zhao -- Two totally different research fields, but I find it fascinating to solve the problem of the brain from different perspectives......)
-- 💞️ I’m looking to collaborate on mice tracking and fine behavioral analysis / about the analysis of EEG using ML (I have trained some svm to distinguish the pattern of EEG but unfortunately failed... and I am going to use RSA to have a try...)
-- 📫 How to reach me: ave.emotion.dai@gmail.com
+- 👀 I’m interested in Computer Vision, Computational and System Neuroscience.
+- 🌱 I’m currently majoring in Biomedical Science at SJTU, and finishing my thesis at New York University.
+-     I have participated in several projects.
+-     * Social effect during fear and extinction
+-     * Essential oils' function in anti-anxiety
+-     * Neural encoding in different imageries
+-     * Aggression behavior and its cellular basis
+- 💞️ I’m seeking a Ph.D. position in the United States in Biomedical Science or Neuroscience.
+-      My research interest focuses on information processing during complex behaviors. I am an energetic, curious, and self-motivated person. I believe we can make a incredible project!
+- 📫 How to reach me: xiuzhi.dai@nyulangone.org
 
 
 <!---
