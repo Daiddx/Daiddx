@@ -7,7 +7,7 @@
 - * Neural encoding in different imageries
 - * Aggression behavior and its cellular basis
 - 💞️ I’m seeking a Ph.D. position in the United States in Biomedical Science or Neuroscience.
--  My research interest focuses on information processing during complex behaviors. I am an energetic, curious, and self-motivated person. I believe we can make a incredible project!
+-  My research interest focuses on information processing during complex behaviors. I am an energetic, curious, and self-motivated person. I believe we can make an incredible project!
 - 📫 How to reach me: xiuzhi.dai@nyulangone.org
 
 
