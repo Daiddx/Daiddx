@@ -1,4 +1,3 @@
-- Xiuzhi Dai
 - B.S. in Biomedical Science at SJTU (2021-2025), Ph.D. student in Brain and Cognitive Science at MIT (2025-present)
 - Visited NYU neuroscience institute (2024-2025)
 
